@@ -8,6 +8,8 @@ on:
 jobs:
   changelog:
     name: Update changelog
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
