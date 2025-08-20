@@ -6,7 +6,7 @@
 # Демо-бот: https://t.me/keenetic_dns_bot
 #
 # Файл: unblock_ipset.sh, Версия 2.1.9, последнее изменение: 03.05.2023, 22:03
-# Доработал: NetworK (https://github.com/ziwork)
+# Доработал: NetworK (https://github.com/znetworkx)
 
 cut_local() {
 	grep -vE 'localhost|^0\.|^127\.|^10\.|^172\.16\.|^192\.168\.|^::|^fc..:|^fd..:|^fe..:'

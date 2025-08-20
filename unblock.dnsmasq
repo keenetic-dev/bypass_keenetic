@@ -6,7 +6,7 @@
 # Демо-бот: https://t.me/keenetic_dns_bot
 #
 # Файл: unblock.dnsmasq, Версия 2.1.9, последнее изменение: 03.05.2023, 22:03
-# Доработал: NetworK (https://github.com/ziwork)
+# Доработал: NetworK (https://github.com/znetworkx)
 
 cat /dev/null > /opt/etc/unblock.dnsmasq
 

@@ -1,4 +1,4 @@
-*2.2.0 (01 Oct 2023) -* [Поддержка KeenOS 4+](https://github.com/ziwork/bypass_keenetic/releases/tag/2.2.0) by [@ziwork](https://github.com/ziwork)
+*2.2.0 (01 Oct 2023) -* [Поддержка KeenOS 4+](https://github.com/znetworkx/bypass_keenetic/releases/tag/2.2.0) by [@znetworkx](https://github.com/znetworkx)
 - *Добавлена поддержка KeenOS 4+*
 - *Добавлена проверка версии KeenOS при установке и обновлении*
 - *Обновлены основные скрипты*
@@ -14,4 +14,4 @@
 - *Добавлено исправление при превышении списка > 4096 символов*
 - *Добавлены информационные смайлы в меню*
 
-- [Releases](https://github.com/ziwork/bypass_keenetic/releases) | [Changelog](https://github.com/ziwork/bypass_keenetic/blob/main/CHANGELOG.md) | [Discussions](https://github.com/ziwork/bypass_keenetic/discussions) | [Issues](https://github.com/ziwork/bypass_keenetic/issues)
+- [Releases](https://github.com/znetworkx/bypass_keenetic/releases) | [Changelog](https://github.com/znetworkx/bypass_keenetic/blob/main/CHANGELOG.md) | [Discussions](https://github.com/znetworkx/bypass_keenetic/discussions) | [Issues](https://github.com/znetworkx/bypass_keenetic/issues)

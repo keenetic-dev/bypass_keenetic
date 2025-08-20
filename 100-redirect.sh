@@ -6,7 +6,7 @@
 # Демо-бот: https://t.me/keenetic_dns_bot
 #
 # Файл: 100-redirect.sh, Версия 2.1.9, последнее изменение: 03.05.2023, 21:10
-# Доработал: NetworK (https://github.com/ziwork)
+# Доработал: NetworK (https://github.com/znetworkx)
 
 #!/bin/sh
 
